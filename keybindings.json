@@ -13,5 +13,5 @@
     { "key": "shift+cmd+down",        "command": "editor.action.moveLinesDownAction"},
     { "key": "shift+cmd+up",          "command": "editor.action.moveLinesUpAction"},
     { "key": "alt+cmd+left",          "command": "workbench.action.navigateBack" },
-    { "key": "alt+cmd+rigt",          "command": "workbench.action.navigateForward" }
+    { "key": "alt+cmd+right",          "command": "workbench.action.navigateForward" }
 ]
